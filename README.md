@@ -11,4 +11,4 @@ Recently exploring Golang <a href="https://go.dev/" target="blank"><img src="htt
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephine-ytlin&show_icons=true&locale=en&layout=compact" alt="josephine-ytlin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephine-ytlin&show_icons=true&locale=en" alt="josephine-ytlin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josephine-ytlin&show_icons=true&locale=en&theme=synthwave" alt="josephine-ytlin" /></p>
