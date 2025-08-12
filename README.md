@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Josephine Lin🧘‍♀️</h1>
 
-<h3 align="center">I'm a junior backend developer, majorly using Java <a href="https://www.java.com/zh-TW/" target="_blank"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="java" width="40" height="40"/></a> <br>
+<h3 align="center">I'm a mid-level backend developer, majorly using Java <a href="https://www.java.com/zh-TW/" target="_blank"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="java" width="40" height="40"/></a> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josephine-ytlin&label=Profile%20views&color=0e75b6&style=flat" alt="josephine-ytlin" /> </p>
 </h3>
 
